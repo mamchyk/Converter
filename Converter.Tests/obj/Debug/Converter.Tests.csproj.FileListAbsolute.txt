@@ -6,3 +6,11 @@ c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Conve
 c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter.Tests\obj\Debug\ResolveAssemblyReference.cache
 c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter.Tests\obj\Debug\Converter.Tests.dll
 c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter.Tests\obj\Debug\Converter.Tests.pdb
+C:\Users\Andronz\Converter\Converter.Tests\bin\Debug\Converter.Tests.dll.config
+C:\Users\Andronz\Converter\Converter.Tests\bin\Debug\Converter.Tests.dll
+C:\Users\Andronz\Converter\Converter.Tests\bin\Debug\Converter.Tests.pdb
+C:\Users\Andronz\Converter\Converter.Tests\bin\Debug\Converter.dll
+C:\Users\Andronz\Converter\Converter.Tests\bin\Debug\Converter.pdb
+C:\Users\Andronz\Converter\Converter.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andronz\Converter\Converter.Tests\obj\Debug\Converter.Tests.dll
+C:\Users\Andronz\Converter\Converter.Tests\obj\Debug\Converter.Tests.pdb

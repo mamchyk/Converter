@@ -3,3 +3,8 @@ c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Conve
 c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\DocToPdf\obj\Debug\ResolveAssemblyReference.cache
 c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\DocToPdf\obj\Debug\DocToPdf.dll
 c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\DocToPdf\obj\Debug\DocToPdf.pdb
+C:\Users\Andronz\Converter\DocToPdf\bin\Debug\DocToPdf.dll
+C:\Users\Andronz\Converter\DocToPdf\bin\Debug\DocToPdf.pdb
+C:\Users\Andronz\Converter\DocToPdf\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andronz\Converter\DocToPdf\obj\Debug\DocToPdf.dll
+C:\Users\Andronz\Converter\DocToPdf\obj\Debug\DocToPdf.pdb

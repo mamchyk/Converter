@@ -4,10 +4,10 @@
       <File id="0287D01F-36F6-4701-96F9-7CE93E8AA1B2/d:Controllers/f:ConvertController.cs" caret="315" fromTop="15" />
       <File id="0287D01F-36F6-4701-96F9-7CE93E8AA1B2/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
       <File id="0287D01F-36F6-4701-96F9-7CE93E8AA1B2/d:Views/d:Convert/f:Index.cshtml" caret="55" fromTop="5" />
-      <File id="69C8618C-D74A-45FA-AF61-C45CA786D1D5/f:DocToPdf.cs" caret="159" fromTop="11" />
+      <File id="69C8618C-D74A-45FA-AF61-C45CA786D1D5/f:DocToPdf.cs" caret="196" fromTop="12" />
     </RecentFiles>
     <RecentEdits>
-      <File id="69C8618C-D74A-45FA-AF61-C45CA786D1D5/f:DocToPdf.cs" caret="140" fromTop="7" />
+      <File id="69C8618C-D74A-45FA-AF61-C45CA786D1D5/f:DocToPdf.cs" caret="184" fromTop="9" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -28,4 +28,10 @@
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="prop" priority="31" />
+      <Item value="int" priority="30" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

@@ -7,3 +7,12 @@ c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Conve
 c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\ResolveAssemblyReference.cache
 c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\Converter.dll
 c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\Converter.pdb
+C:\Users\Andronz\Converter\Converter\bin\Converter.dll
+C:\Users\Andronz\Converter\Converter\bin\Converter.pdb
+C:\Users\Andronz\Converter\Converter\bin\DocToPdf.dll
+C:\Users\Andronz\Converter\Converter\bin\EntityFramework.dll
+C:\Users\Andronz\Converter\Converter\bin\DocToPdf.pdb
+C:\Users\Andronz\Converter\Converter\bin\EntityFramework.xml
+C:\Users\Andronz\Converter\Converter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andronz\Converter\Converter\obj\Debug\Converter.dll
+C:\Users\Andronz\Converter\Converter\obj\Debug\Converter.pdb
