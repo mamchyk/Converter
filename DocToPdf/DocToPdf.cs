@@ -7,5 +7,6 @@ namespace DocToPdf
 {
     public class DocToPdf
     {
+        public int Id { get; set; }
     }
 }
