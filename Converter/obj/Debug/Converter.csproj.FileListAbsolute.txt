@@ -1,0 +1,9 @@
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\bin\Converter.dll
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\bin\Converter.pdb
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\bin\DocToPdf.dll
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\bin\EntityFramework.dll
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\bin\DocToPdf.pdb
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\bin\EntityFramework.xml
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\ResolveAssemblyReference.cache
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\Converter.dll
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\Converter.pdb

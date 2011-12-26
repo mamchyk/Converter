@@ -1,0 +1,5 @@
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\DocToPdf\bin\Debug\DocToPdf.dll
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\DocToPdf\bin\Debug\DocToPdf.pdb
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\DocToPdf\obj\Debug\ResolveAssemblyReference.cache
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\DocToPdf\obj\Debug\DocToPdf.dll
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\DocToPdf\obj\Debug\DocToPdf.pdb

@@ -1,0 +1,8 @@
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter.Tests\bin\Debug\Converter.Tests.dll.config
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter.Tests\bin\Debug\Converter.Tests.dll
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter.Tests\bin\Debug\Converter.Tests.pdb
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter.Tests\bin\Debug\Converter.dll
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter.Tests\bin\Debug\Converter.pdb
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter.Tests\obj\Debug\Converter.Tests.dll
+c:\users\andriy.hristyanovich.matrix\documents\visual studio 2010\Projects\Converter\Converter.Tests\obj\Debug\Converter.Tests.pdb
